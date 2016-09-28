@@ -1,0 +1,31 @@
+{
+  "name": "grunt-csstree-validator",
+  "version": "0.1.0",
+  "description": "Grunt plugin for the CSS(Tree) validator",
+  "files": [
+    "tasks"
+  ],
+  "scripts": {
+    "test": "eslint . && grunt"
+  },
+  "keywords": [
+    "gruntplugin",
+    "css",
+    "csstree",
+    "validator"
+  ],
+  "author": {
+    "name": "Sergej Müller",
+    "url": "https://sergejmueller.github.io"
+  },
+  "homepage": "https://github.com/sergejmueller/grunt-csstree-validator",
+  "repository": "sergejmueller/grunt-csstree-validator",
+  "license": "MIT",
+  "dependencies": {
+    "csstree-validator": "^1.0.3"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "eslint": "^2.13.1"
+  }
+}
