@@ -37,4 +37,7 @@ module.exports = function( grunt ) {
 
 `files` is an array with CSS file paths to validate. A single CSS file as a string is also possible.
 
+
+### Why
+
 Ideally suited for the [pre-commit hook](https://www.npmjs.com/package/pre-commit).
