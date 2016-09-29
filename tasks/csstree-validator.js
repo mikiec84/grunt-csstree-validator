@@ -1,4 +1,4 @@
-var csstree = require( 'csstree-validator' )
+var csstree = require( 'csstree-validator' );
 
 
 module.exports = function( grunt ) {
@@ -40,4 +40,4 @@ module.exports = function( grunt ) {
         }
     )
 
-}
+};
