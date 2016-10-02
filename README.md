@@ -6,6 +6,7 @@ Grunt plugin for the [CSS(Tree) Validator](https://github.com/csstree/validator)
 
 
 [![dependencies Status](https://david-dm.org/sergejmueller/grunt-csstree-validator/status.svg)](https://david-dm.org/sergejmueller/grunt-csstree-validator)
+[![Code Climate](https://codeclimate.com/github/sergejmueller/grunt-csstree-validator/badges/gpa.svg)](https://codeclimate.com/github/sergejmueller/grunt-csstree-validator)
 [![Build Status](https://travis-ci.org/sergejmueller/grunt-csstree-validator.svg?branch=master)](https://travis-ci.org/sergejmueller/grunt-csstree-validator)
 [![Known Vulnerabilities](https://snyk.io/test/github/sergejmueller/grunt-csstree-validator/11210c485ab0f51ad5d9d7856ac2300c12aaa269/badge.svg)](https://snyk.io/test/github/sergejmueller/grunt-csstree-validator/11210c485ab0f51ad5d9d7856ac2300c12aaa269)
 
