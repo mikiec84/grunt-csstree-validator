@@ -1,12 +1,13 @@
 {
   "name": "grunt-csstree-validator",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Grunt plugin for the CSS(Tree) validator",
   "files": [
     "tasks"
   ],
   "scripts": {
-    "test": "eslint . && grunt"
+    "test": "grunt",
+    "lint": "eslint ."
   },
   "keywords": [
     "gruntplugin",
@@ -26,6 +27,10 @@
   },
   "devDependencies": {
     "grunt": "^1.0.1",
-    "eslint": "^2.13.1"
+    "eslint": "^3.8.1",
+    "eslint-plugin-node": "^2.1.3"
+  },
+  "engines": {
+    "node": ">=0.10"
   }
 }
