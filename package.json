@@ -27,7 +27,7 @@
   },
   "devDependencies": {
     "grunt": "^1.0.1",
-    "eslint": "^3.8.1",
+    "eslint": "^4.18.2",
     "eslint-plugin-node": "^2.1.3"
   },
   "engines": {
